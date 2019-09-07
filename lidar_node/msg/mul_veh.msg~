@@ -1,0 +1,15 @@
+float32 veh1_x
+float32 veh1_y
+float32 veh1_psi
+float32 veh1_wpx
+float32 veh1_wpy
+float32 veh2_x
+float32 veh2_y
+float32 veh2_psi
+float32 veh2_wpx
+float32 veh2_wpy
+float32 veh3_x
+float32 veh3_y
+float32 veh3_psi
+float32 veh3_wpx
+float32 veh3_wpy

@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="clustering_tutorial" type="clustering_tutorial" name="lidar_cluster"/>
+</launch>
